@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.env*
+
+# Data
+/data/
+*.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Streamlit cache
+.ui_cache/
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Logs
+logs/
+*.log
+
+# MacOS
+.DS_Store

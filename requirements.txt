@@ -1,0 +1,22 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+python-multipart==0.0.9
+pydantic==2.8.2
+python-dotenv==1.0.1
+
+# OCR / PDF
+PyMuPDF==1.24.9
+easyocr==1.7.1
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+
+# NLP / QA / RAG
+transformers==4.43.3
+torch==2.3.1
+sentence-transformers==3.0.1
+faiss-cpu==1.7.4
+
+# Utils
+numpy==1.26.4
+requests==2.32.3
+streamlit==1.36.0
